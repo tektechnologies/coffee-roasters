@@ -6,3 +6,7 @@
 2. Start timer
 3. Value straight up
 4. 10 minutes
+
+## Dark Roast 28 minutes
+
+## Medium Roast 25 - 27 minutes
