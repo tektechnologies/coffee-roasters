@@ -11,3 +11,14 @@
 - At 370 degrees/first Crack start to slow down the roast or GAS off as long as temp is still rising
 - 10 - 15 degrees slow it down.
 - Roast 24 - 28
+- Last 10 degrees slowing roaster down, for sure on Darker Roasts.
+
+## Notes on Light Roasts
+
+- are faster
+- time usually 22-24
+
+## Notes on Dark Roasts
+
+- are longer ~ italian roasts longer
+- time usually 24-28
