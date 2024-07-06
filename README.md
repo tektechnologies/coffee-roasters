@@ -1,6 +1,6 @@
 # Knowledge Management System for roasting coffee
 
-![alt text](IMG_1512.JPG "Roaster")
+![alt text](IMG_1512.JPG "Roaster Panel")
 ![alt text](IMG_1526.JPG "Roaster")
 ## 5 Kg - Diedrich IR-5 Roaster
 
