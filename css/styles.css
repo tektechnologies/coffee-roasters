@@ -1,6 +1,3 @@
-/* Timothy Framework - www.timothyframework.com */
-/* This work is licensed under the MIT License - http://www.opensource.org/licenses/mit-license.php */
-
 
 /* Color and Font Legend 
 
@@ -213,7 +210,7 @@ Grey:#222222
 #topnav-bg		{	}
 
 #topnav ul		{ text-align:center;	}
-#topnav ul li		{ display:inline; font-size:30px; padding:0px 20px;	}
+#topnav ul li		{ display:inline; font-size:30px; padding:0px 0px;	}
 #topnav ul li a	{ text-transform:uppercase;	}
 
 #topnav a:link		{ color:#000;	}
